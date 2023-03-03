@@ -1,0 +1,2 @@
+Array A: Value of the Lookup Count : 1000
+Array B: Value of the Lookup Count : 8

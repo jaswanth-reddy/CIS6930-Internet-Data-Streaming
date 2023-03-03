@@ -1,0 +1,1 @@
+Value of Lookup Count for the Array: 6852
